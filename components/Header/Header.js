@@ -23,7 +23,7 @@ function Header() {
             <Avatar logoutOnPress />
           </div>
 
-          <h1 className="text-3xl">Welcome to the Metaverse by Dev</h1>
+          {/* <h1 className="text-3xl">Welcome to the Metaverse by Dev</h1> */}
           <h2 className="text-5xl font-bold truncate">{user.getUsername()}</h2>
 
           <ChangeUsername />
