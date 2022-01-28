@@ -19,7 +19,7 @@ function Login() {
           onClick={authenticate}
           className="bg-yellow-500 rounded-lg p-5 font-bold animate-bounce hover:animate-pulse"
         >
-          Login to the METAVERSE
+          Login with Metamask
         </button>
       </div>
 
